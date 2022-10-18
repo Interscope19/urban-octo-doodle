@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c9d8a66a.css",
+    "main.js": "/static/js/main.c6c59743.js",
+    "static/media/casaplano.png": "/static/media/casaplano.85b5885adb240367f851.png",
+    "static/media/raya.png": "/static/media/raya.b27d84a154c792964f99.png",
+    "index.html": "/index.html",
+    "main.c9d8a66a.css.map": "/static/css/main.c9d8a66a.css.map",
+    "main.c6c59743.js.map": "/static/js/main.c6c59743.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c9d8a66a.css",
+    "static/js/main.c6c59743.js"
+  ]
+}
